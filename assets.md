@@ -8,8 +8,17 @@
 * [Keys](https://freesound.org/s/204861/) 
 * [Footsteps on concrete](https://freesound.org/s/336598/)
 * [Indoor footsteps](https://freesound.org/s/60642/)
+* [City noises](https://freesound.org/s/322231/)
+* [Unlocking car](https://freesound.org/s/68142/)
+* [Car noises](https://freesound.org/s/126042/)
+* [Driving ambience](https://freesound.org/s/383453/)
+* [Turn signal](https://freesound.org/s/181238/)
+* [Radio static](https://freesound.org/s/91999/)
+* [Knocking](https://freesound.org/s/124537/)
+* [Doorbell](https://freesound.org/s/370919/)
+* [Nighttime ambience](https://freesound.org/s/530896/)
 * *All audio is able to be obtained and used due to Fair Use or public domain.*
 # **Recorded Audio**
-* Pizza delivery driver and cook are voiced by me, Trinity McCool
+* Pizza delivery driver, cook, and old woman are voiced by me, Trinity McCool
 * Employee who greets customer in the beginning is voiced by Julie Cassidy
-* *Voices were recorded by me using a microphone*
+* *Voices were recorded by me using a microphone, voiced by Siri on an iPhone, or by using naturalreaders.com*
